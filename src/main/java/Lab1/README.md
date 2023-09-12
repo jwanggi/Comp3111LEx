@@ -2,7 +2,7 @@
 
 A brief description of the project.
 
-![Project Screenshot](..../resources/screenshot.png)
+![Project Screenshot](https://github.com/jwanggi/Comp3111LEx/blob/7552135bc18bbdd3b2034c4cf5ab687003b8f592/src/main/resources/screenshot.png)
 
 ## Table of Contents
 
