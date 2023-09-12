@@ -1,38 +1,9 @@
-# Project Name
+# Lab1: Comp3111 - Software Engineering
 
-A brief description of the project.
+This is my 1st lab in Comp3111 - Software Engineering
+1. I have learned the way to build a Java Project in IntelliJ.
+2. I have successfully created my first GitHub repository to share the project source with others.
+
+Here's the screenshot of my 1st lab project in IntelliJ:
 
 ![Project Screenshot](https://github.com/jwanggi/Comp3111LEx/blob/7552135bc18bbdd3b2034c4cf5ab687003b8f592/src/main/resources/screenshot.png)
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-Provide an overview of the project, its purpose, and any relevant background information.
-
-## Features
-
-List the main features or functionalities of the project.
-
-## Installation
-
-Provide instructions on how to install or set up the project. Include any dependencies or system requirements.
-
-## Usage
-
-Explain how to use the project, including any important commands or steps. Provide code examples or screenshots if necessary.
-
-## Contributing
-
-Explain how others can contribute to the project, such as reporting issues or submitting pull requests. Include guidelines and any code of conduct.
-
-## License
-
-Specify the license under which the project is distributed.
