@@ -2,6 +2,8 @@
 
 A brief description of the project.
 
+![Project Screenshot](..../resources/screenshot.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
